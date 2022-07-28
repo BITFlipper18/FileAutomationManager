@@ -1,5 +1,4 @@
-# FileAutomationManager
-File management optimzer
+# File management optimzer
 
 This in a file manager application that supports users to keep a clean, ordered donwloadfolder. This variant aims to group files to seperate folders with their corresponding type.
 
